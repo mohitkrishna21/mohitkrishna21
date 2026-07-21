@@ -22,6 +22,7 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 | [**Tokenization & Embedding Explorer**](https://github.com/mohitkrishna21/tokenization-explorer) | Interactive CLI to explore tokenization, token IDs & semantic similarity | HuggingFace · BERT · Sentence Transformers |
 | [**Document Classifier & Summarizer**](https://github.com/mohitkrishna21/document-classifier-summarizer) | Classifies and summarizes PDF/TXT documents using open source models — no paid API | HuggingFace · BART · Gradio · PyMuPDF |
 | [**Smart Prompt Optimizer**](https://github.com/mohitkrishna21/prompt-optimizer) | Analyzes any rough prompt and rewrites it using the optimal prompting technique — zero-shot, few-shot, chain-of-thought, or structured output | Groq · LLaMA 3.3 · Gradio · Python |
+| [DocuQuery](https://github.com/mohitkrishna21/docuquery) | RAG-based PDF Q&A system | FastAPI · LangChain · FAISS · Groq · Gradio |
 | 🔨 *RAG Pipeline* | Coming soon | FAISS · LanceDB · FastAPI |
 | 🔨 *Multi-Agent System* | Coming soon | LangGraph · MCP · OpenAI SDK |
 | 🔨 *Multimodal RAG App* | Coming soon | LanceDB · Gradio · CLIP |
