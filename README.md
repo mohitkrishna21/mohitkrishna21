@@ -41,7 +41,7 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 
 ## 📫 Connect
 
-📧 YOUR-EMAIL  
+📧 mohitkrishna0521@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)  
 📍 Long Beach, California  
 
