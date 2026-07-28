@@ -39,13 +39,6 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 
 ---
 
-## 📝 Writing
-
-I write about building real AI systems — RAG, agents, evals, and production engineering.  
-👉 [Read on LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-
----
-
 ## 📫 Connect
 
 📧 YOUR-EMAIL  
