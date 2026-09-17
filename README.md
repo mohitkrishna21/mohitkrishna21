@@ -41,8 +41,8 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 
 ## 📫 Connect
 
-📧 mohitkrishna0521@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)  
+📧 mohitkrishna2024@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/mohit-krishna21)  
 📍 Long Beach, California  
 
 **Work Authorization:** Eligible for 36 months via STEM OPT — no immediate sponsorship required.
