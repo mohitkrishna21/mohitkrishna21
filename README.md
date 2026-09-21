@@ -27,6 +27,7 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 | [**LedgerQuery**](https://github.com/mohitkrishna21/LedgerQuery) | Natural-language-to-SQL query engine for financial ledger data | Text2SQL · sqlglot · SQLite · Groq · FastAPI · Docker |
 | [**ImageQuery**](https://github.com/mohitkrishna21/ImageQuery) | Text-query-driven image search engine over a local image collection | CLIP · Transformers · LanceDB · FastAPI |
 | [**MemeSense**](https://github.com/mohitkrishna21/MemeSense) | Multimodal sarcasm classifier — benchmarks four fusion strategies (early/intermediate/late + text/image baselines) on CLIP + BLIP embeddings | CLIP · BLIP · PyTorch · LanceDB · FastAPI |
+| [**PipelinePilot**](https://github.com/mohitkrishna21/PipelinePilot) | Agent + custom MCP server for job-search pipeline tracking — stale-application alerts, weekly reviews, and gated follow-up drafting | Groq · FastMCP · MCP · SQLite |
 | 🔨 *Multi-Agent System* | Coming soon | LangGraph · MCP · OpenAI SDK |
 | 🔨 *Production Agentic AI* | end-to-end agentic app with evals | Full Stack · Cloud |
 
