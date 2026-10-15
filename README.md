@@ -8,10 +8,10 @@ MS CS @ California State University, Long Beach · Graduating Dec 2026 · Long B
 
 ## 🧠 What I Work On
 
-- 🔍 **RAG Systems** — semantic search, vector DBs, hybrid retrieval, re-ranking
-- 🤖 **AI Agents** — LangGraph, OpenAI Agents SDK, MCP, multi-agent orchestration
-- 🗂️ **Multimodal AI** — text, image, and audio pipelines
-- ⚙️ **Production AI** — evals, fine-tuning, prompt optimization, LangSmith observability
+- 🔍 **RAG Systems** - semantic search, vector DBs, hybrid retrieval, re-ranking
+- 🤖 **AI Agents** - LangGraph, OpenAI Agents SDK, MCP, multi-agent orchestration
+- 🗂️ **Multimodal AI** - text, image, and audio pipelines
+- ⚙️ **Production AI** - evals, fine-tuning, prompt optimization, LangSmith observability
 
 ---
 
