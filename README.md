@@ -17,7 +17,7 @@ I build GenAI and agentic systems and make them reliable — retrieval, evals, g
 
 - **HybridRAG (live):** Production RAG chatbot on AWS EC2 with hybrid search and per-sentence faithfulness checks — cut answer latency **~20s → 2-3s**, **9** pytest tests in CI. → [hybridrag.mohitkrishna.dev](https://hybridrag.mohitkrishna.dev)
 - **PipelinePilot (live):** Agent on the OpenAI Agents SDK + a custom **7-tool MCP server**, with a human-approval gate and an output guardrail that blocked **every invented claim across an 8-case eval (0 FP / 0 FN)**. → [pipelinepilot.mohitkrishna.dev](https://pipelinepilot.mohitkrishna.dev)
-- **Honeywell (AI Engineer Intern):** Built a maintenance copilot's RAG + LangGraph agent — cut unsupported answers **~40%**, measured **~85%** faithfulness across **~300** engineer questions.
+- **Honeywell (AI Engineer Intern):** Built a maintenance copilot's RAG + LangGraph agent - cut unsupported answers **~40%**, measured **~85%** faithfulness across **~300** engineer questions.
 - **Trigent (SWE, Python & ML):** Churn and propensity models scoring **~2M customer profiles weekly** on AWS; lifted churn recall **~15%** over rule-based scoring.
 - **ImageQuery:** Semantic image search at **0.98 precision@5** on a 200-image, 10-breed test set.
 
