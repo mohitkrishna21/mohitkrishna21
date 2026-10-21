@@ -35,13 +35,13 @@ I build GenAI and agentic systems and make them reliable — retrieval, evals, g
 
 ## 💼 Experience
 
-**AI Engineer Intern — Honeywell** · May 2026 – Aug 2026
+**AI Engineer Intern - Honeywell** · May 2026 – Aug 2026
 - Built key retrieval components of a maintenance copilot's RAG pipeline (Pinecone, a deployed cross-encoder reranker), lifting top-5 hit rate ~20%.
 - Engineered a LangGraph tool-calling agent over manuals, anomaly scores, and work-order history.
 - Enforced Pydantic-structured outputs and mandatory citations, cutting unsupported answers ~40%.
 - Designed a Pytest + MLflow eval suite, measuring ~85% faithfulness across ~300 engineer questions.
 
-**Software Engineer, Python & ML — Trigent Software** · Jan 2023 – Dec 2024
+**Software Engineer, Python & ML - Trigent Software** · Jan 2023 – Dec 2024
 - Developed churn and propensity models in scikit-learn, lifting churn recall ~15% over rule-based scoring.
 - Automated data prep with reusable Python ETL (Pandas, NumPy), cutting refresh time ~40%.
 - Served churn and propensity scores to the client's CRM via FastAPI on Docker + AWS.
