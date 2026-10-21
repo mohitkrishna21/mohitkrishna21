@@ -1,7 +1,7 @@
 # Hi, I'm Mohit Krishna 👋
 
 **Applied AI / Agentic AI Engineer | MS CS @ California State University, Long Beach (Graduating Dec 2026)**
-I build GenAI and agentic systems and make them reliable — retrieval, evals, guardrails, and the backends that serve them.
+I build GenAI and agentic systems and make them reliable - retrieval, evals, guardrails, and the backends that serve them.
 **Two systems live in production**, and I care most about what happens after the demo.
 
 ## 💡 About
