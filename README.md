@@ -1,12 +1,12 @@
 # Hi, I'm Mohit Krishna 👋
 
 **Applied AI / Agentic AI Engineer | MS CS @ California State University, Long Beach (Graduating Dec 2026)**
-I build GenAI and agentic systems and make them reliable - retrieval, evals, guardrails, and the backends that serve them.
+I build GenAI and Agentic systems and make them reliable - retrieval, evals, guardrails, and the backends that serve them.
 **Two systems live in production**, and I care most about what happens after the demo.
 
 ## 💡 About
 
-- 2+ years of production ML experience, specializing in **GenAI and agentic systems** with eval and guardrail discipline
+- 2+ years of production ML experience, specializing in **GenAI and Agentic systems** with eval and guardrail discipline
 - **Languages:** Python · SQL · JavaScript
 - **GenAI & Agents:** LangChain · LangGraph · OpenAI Agents SDK · MCP / FastMCP · HuggingFace · OpenAI API
 - **RAG & Retrieval:** BM25 · RRF · Cross-encoder · FAISS · LanceDB · Sentence Transformers · Pinecone
