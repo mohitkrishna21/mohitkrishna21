@@ -6,7 +6,7 @@ I build GenAI and agentic systems and make them reliable - retrieval, evals, gua
 
 ## 💡 About
 
-- 2+ years of production ML experience, now specializing in **GenAI and agentic systems** with eval and guardrail discipline
+- 2+ years of production ML experience, specializing in **GenAI and agentic systems** with eval and guardrail discipline
 - **Languages:** Python · SQL · JavaScript
 - **GenAI & Agents:** LangChain · LangGraph · OpenAI Agents SDK · MCP / FastMCP · HuggingFace · OpenAI API
 - **RAG & Retrieval:** BM25 · RRF · Cross-encoder · FAISS · LanceDB · Sentence Transformers · Pinecone
